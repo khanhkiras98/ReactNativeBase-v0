@@ -1,0 +1,1 @@
+export const EXPERT_TIME = 86400000
